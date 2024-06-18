@@ -2,7 +2,7 @@
 
 
 ## How to use:
-to use download the script then put it in the same folderr as your project and enter code like this
+to use download the script then put it in the same folder as your project and enter code like this
 
 `` from sumtrans import translate``
 
